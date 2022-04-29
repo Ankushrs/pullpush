@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 activate windows go to settings to activate windows.
+=======
+hello i am making changes to the file
+>>>>>>> c4c0fa32c039071634a59f43933c3a7460c9fe19
